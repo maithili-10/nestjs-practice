@@ -1,0 +1,46 @@
+.btnStyle {
+    text-align: center;
+    font: normal normal normal 14px/19px Roboto;
+    letter-spacing: 0px;
+    color: #ffffff;
+    background: #004a7f 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    width: 110px !important;
+    height: 35px !important;
+  }
+  
+  .btnReset {
+    text-align: center;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.699999988079071px solid #004a7f;
+    border-radius: 3px;
+    opacity: 1;
+    width: 125px !important;
+    height: 35px;
+    font: normal normal medium 14px/19px Roboto;
+    letter-spacing: 0px;
+    color: #004a7f;
+    cursor: pointer;
+  }
+  
+  .inputStyle {
+    width: 190px !important;
+    height: 35px !important;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #d9d9d9;
+    border-radius: "3px";
+  }
+  
+  .filterTest {
+    padding: 0;
+    margin: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0px;
+    color: #4f5057;
+    width: auto;
+    text-align: center;
+  }
